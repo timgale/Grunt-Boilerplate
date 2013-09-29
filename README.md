@@ -1,2 +1,2 @@
-# Grunt Boilterplate
-## Author: Timothy Gale
+# Grunt Boilerplate
+### Author: Timothy Gale
